@@ -1,3 +1,8 @@
+This is a To-Do List app.
+Link to the website
+https://rishavbharti.github.io/todo-list/
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
